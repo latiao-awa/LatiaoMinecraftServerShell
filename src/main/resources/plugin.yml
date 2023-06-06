@@ -1,0 +1,8 @@
+name: LatiaoMinecraftShell
+version: '${version}'
+main: me.latiao.latiaominecraftshell.LatiaoMinecraftShell
+api-version: 1.19
+commands:
+  shell:
+    description: shell
+    usage: /shell <command>
